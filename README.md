@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Imane!
 
-<!--
-**imanehajji-dev/imanehajji-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Stagiaire en développement web  
+💻 Développement full-stack en formation professionelle - 3WA 
+📍 Rennes, 35000 France  
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionnée par le développement web, j’aime concevoir des applications complètes, de l’interface utilisateur jusqu’à la base de données.
+
+Au cours de ma formation, j’ai appris à structurer des projets en architecture MVC, à manipuler des bases de données relationnelles et NoSQL, et à développer des fonctionnalités dynamiques en JavaScript et PHP orienté objet.
+
+Je m'intéresse autant à la logique back-end qu’à l’expérience utilisateur et au design d’interface.
+
+---
+
+## 🛠️ Compétences techniques
+
+### 💻 Front-end
+- HTML5
+- CSS3
+- Responsive Design
+- JavaScript (bases et manipulation du DOM)
+
+### 🧠 Back-end
+- PHP
+- Programmation Orientée Objet (POO)
+- Architecture MVC
+- Création de systèmes d’authentification
+- Routing
+
+### 🗄️ Bases de données
+- MySQL / SQL
+- MongoDB (NoSQL)
+
+### 🎨 Outils & Méthodes
+- Figma (maquettage et UI)
+- Git & GitHub
+- Méthodologie projet
+
+✨ Toujours motivée pour apprendre, progresser et relever de nouveaux défis.
