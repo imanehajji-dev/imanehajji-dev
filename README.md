@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Imane!
 
-💻 Stagiaire - Développeuse Web & Web Mobile (Full-Stack) | 3W Academy
-🔍 Je recherche un stage de 2 mois du 11 mai au 24 juillet 2026
+💻 Stagiaire - Développeuse Web & Web Mobile (Full-Stack) | 3W Academy  
+🔍 Je recherche un stage de 2 mois du 11 mai au 24 juillet 2026  
 📍 Rennes, 35000 France  
 
 ## 🚀 À propos de moi
