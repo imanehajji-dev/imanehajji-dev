@@ -1,41 +1,60 @@
-# 👋 Salut, moi c'est Imane!
+# 👋 Hi, I'm Imane!
 
-💻 Stagiaire - Développeuse Web & Web Mobile (Full-Stack) | 3W Academy  
-🔍 Je recherche un stage de 2 mois du 11 mai au 24 juillet 2026  
-📍 Rennes, 35000 France  
+💻 **Junior Full-Stack Web Developer**  
+🎓 Professional Qualification in Web & Mobile Web Development — Level 5 (EQF equivalent)  
+📍 Based in Italy 🇮🇹 | Open to fully remote opportunities
 
-## 🚀 À propos de moi
+## 🚀 About me
 
-Passionnée par le développement web, j’aime concevoir des applications complètes, de l’interface utilisateur jusqu’à la base de données.
+I transitioned into web development through a 9-month training programme at 3W Academy, where I developed my skills in both front-end and back-end development.
 
-Au cours de ma formation, j’ai appris à structurer des projets en architecture MVC, à manipuler des bases de données relationnelles et NoSQL, et à développer des fonctionnalités dynamiques en JavaScript et PHP orienté objet.
+I enjoy building projects from start to finish, from designing user interfaces to implementing server-side features and managing databases.
 
-Je m'intéresse autant à la logique back-end qu’à l’expérience utilisateur et au design d’interface.
+One of my main projects is **HashiCare Club**, a PHP website built using the MVC architecture, featuring administrator authentication, content management and a relational database.
 
----
+My previous background in languages, international business and e-commerce also gives me a broader understanding of user needs and business objectives.
 
-## 🛠️ Compétences techniques
+I'm currently looking for my first professional opportunity in web development, where I can contribute to real-world projects while continuing to grow as a developer.
 
-### 💻 Front-end
-- HTML5
-- CSS3
+## 🛠️ Technical Skills
+
+**💻 Front-end**
+- HTML5, CSS3, Sass
+- JavaScript
+- React
 - Responsive Design
-- JavaScript (bases et manipulation du DOM)
+- Figma to HTML integration
 
-### 🧠 Back-end
+**⚙️ Back-end**
 - PHP
-- Programmation Orientée Objet (POO)
-- Architecture MVC
-- Création de systèmes d’authentification
+- Object-Oriented Programming (OOP)
+- MVC Architecture
 - Routing
+- Authentication and session management
+- CRUD operations and API fundamentals
 
-### 🗄️ Bases de données
+**🗄️ Databases**
 - MySQL / SQL
 - MongoDB (NoSQL)
 
-### 🎨 Outils & Méthodes
-- Figma (maquettage et UI)
+**🔧 Tools**
 - Git & GitHub
-- Méthodologie projet
+- Docker
+- Figma
+- VS Code
 
-✨ Toujours motivée pour apprendre, progresser et relever de nouveaux défis.
+**🌍 Languages**
+- French
+- Italian
+- English
+- Moroccan Arabic
+
+## 📂 Projects
+
+- **HashiCare Club** — A blog and recipe website built with PHP and MVC architecture.
+- **Personal Portfolio** — A website showcasing my background, skills and projects.
+- **Punto di Equilibrio** — A showcase website developed for an ergonomics practice.
+
+## 🎯 What I'm looking for
+
+A Junior Web Developer or Junior Full-Stack Developer position, preferably fully remote, where I can work on real-world projects, contribute to a development team and continue building my technical skills.
